@@ -94,14 +94,4 @@ We learned that
 -> For City hotel, most popular stay duration is one, two, seven(week), and three respectively
 7. Couple (or 2 adults) is the most popular accommodation type. So hotels can make arrangement plans accordingly
 
-<p float="left" align="middle">  
-  <img src="https://user-images.githubusercontent.com/37020354/79042910-0c418780-7c15-11ea-8ddb-f17cf6b1fb2c.png" width="280" />
-  <img src="https://user-images.githubusercontent.com/37020354/79042912-0e0b4b00-7c15-11ea-956c-c4ffd1c8525f.png" width="280" />
-  <img src="https://user-images.githubusercontent.com/37020354/79042909-0b105a80-7c15-11ea-8d4b-317802f73077.png" width="280" />
-  <img src="https://user-images.githubusercontent.com/37020354/79042911-0cda1e00-7c15-11ea-98ea-dcc11e217f32.png" />
-</p>
 
-<!---
--- ![4](https://user-images.githubusercontent.com/37020354/79042911-0cda1e00-7c15-11ea-98ea-dcc11e217f32.png)
-![1](https://user-images.githubusercontent.com/37020354/79042912-0e0b4b00-7c15-11ea-956c-c4ffd1c8525f.png)
---->
