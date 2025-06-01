@@ -15,7 +15,7 @@ We will perform exploratory data analysis with python to get insight from the da
 
 ## Motivation
 
-### We have tried to answer the following Questions
+### I have tried to answer the following Questions
 1. How Many Booking Were Cancelled?
 2. What is the booking ratio between Resort Hotel and City Hotel?
 3. What is the percentage of booking for each year?
@@ -24,16 +24,16 @@ We will perform exploratory data analysis with python to get insight from the da
 6. How Long People Stay in the hotel?
 7. Which was the most booked accommodation type (Single, Couple, Family)?
 
-### After that we made the predictive model to predict whether the booking will be cancelled or not
+### After that I made the predictive model to predict whether the booking will be cancelled or not
 
-**We will:**
+**I will:**
 - Perform the Feature Engineering to make new featuers
 - Perform the Data Selection to select only relevant features
 - Visualize the data with the help of charts and graphs
 - Finally came with few insights by analyzing them .
 
 ## Tools and Libraries Used
-We have used Python 3 to its following packages:
+I have used Python 3 to its following packages:
 - Pandas
 - Matplotlib
 - Seaborn
@@ -83,7 +83,7 @@ This repository contains three files other than readme file
 
 ## Result
 
-We learned that
+I learned that
 1. Almost 27.5% of bookings were canceled.
 2. More than 70% of the population booked the City hotel.
 3. More than double bookings were made in 2016, compared to the previous year. But the bookings decreased by almost 15% next year.
